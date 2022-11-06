@@ -1,0 +1,26 @@
+hr{
+       
+        
+    border-style:dotted;
+   width: 10px;
+   border-color: grey;
+   border-width: 5px;
+   border-bottom: none;
+ 
+  }
+  h3{
+    color:#66bfbf ;
+  }
+  p{
+    color: rgb(0, 102, 102);
+  }
+  body {
+    background-color: rgba(121, 230, 217, 0.61);
+
+    }
+    table{
+        color: rgb(0, 102, 102);
+    }
+   ul{
+    color: rgb(0, 102, 102);
+   }
